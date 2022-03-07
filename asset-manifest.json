@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/howToRemember-1.2/static/css/main.def96386.css",
-    "main.js": "/howToRemember-1.2/static/js/main.fdd16fe0.js",
+    "main.css": "/howToRemember-1.2/static/css/main.4ff8ce20.css",
+    "main.js": "/howToRemember-1.2/static/js/main.11ce3d8e.js",
+    "static/media/amarita.pdf": "/howToRemember-1.2/static/media/amarita.a45a35bb2047e877cbb9.pdf",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/howToRemember-1.2/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/woodWall.jpeg": "/howToRemember-1.2/static/media/woodWall.ce3370ad66d96a115ddc.jpeg",
     "static/media/fontawesome-webfont.eot": "/howToRemember-1.2/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -9,11 +10,11 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/howToRemember-1.2/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/howToRemember-1.2/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/howToRemember-1.2/index.html",
-    "main.def96386.css.map": "/howToRemember-1.2/static/css/main.def96386.css.map",
-    "main.fdd16fe0.js.map": "/howToRemember-1.2/static/js/main.fdd16fe0.js.map"
+    "main.4ff8ce20.css.map": "/howToRemember-1.2/static/css/main.4ff8ce20.css.map",
+    "main.11ce3d8e.js.map": "/howToRemember-1.2/static/js/main.11ce3d8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.def96386.css",
-    "static/js/main.fdd16fe0.js"
+    "static/css/main.4ff8ce20.css",
+    "static/js/main.11ce3d8e.js"
   ]
 }
